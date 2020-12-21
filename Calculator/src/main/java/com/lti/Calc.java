@@ -18,7 +18,7 @@ public class Calc {
 		System.out.println("Sum="+add(10,20));
 		System.out.println("Difference="+subs(90,20));
 		System.out.println("Product="+prod(90,20));
-		System.out.println("Quotient="+prod(10,2));
+		System.out.println("Quotient="+div(10,2));
 	}
 
 }
